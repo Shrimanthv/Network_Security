@@ -1,0 +1,6 @@
+[2025-02-19 16:59:35,993] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK" 
+[2025-02-19 16:59:35,998] 107 dagshub - INFO - Accessing as Shrimanthv 
+[2025-02-19 16:59:36,371] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Shrimanthv/Network_Security "HTTP/1.1 200 OK" 
+[2025-02-19 16:59:36,729] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK" 
+[2025-02-19 16:59:36,731] 107 dagshub - INFO - Initialized MLflow to track repo "Shrimanthv/Network_Security" 
+[2025-02-19 16:59:36,731] 107 dagshub - INFO - Repository Shrimanthv/Network_Security initialized! 
